@@ -1,2 +1,2 @@
 # atmbankingC
-mini online banking in C
+Mini online banking system written in C
